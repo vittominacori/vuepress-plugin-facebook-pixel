@@ -1,0 +1,31 @@
+{
+  "name": "@vittominacori/vuepress-plugin-facebook-pixel",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Facebook Pixel plugin for VuePress",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Vittorio Minacori",
+  "contributors": [
+    {
+      "name": "Vittorio Minacori",
+      "url": "https://github.com/vittominacori"
+    }
+  ],
+  "keywords": [
+    "facebook",
+    "pixel",
+    "vue",
+    "vuepress"
+  ],
+  "homepage": "https://github.com/vittominacori/vuepress-plugin-facebook-pixel",
+  "bugs": {
+    "url": "https://github.com/vittominacori/vuepress-plugin-facebook-pixel/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vittominacori/vuepress-plugin-facebook-pixel.git"
+  }
+}
