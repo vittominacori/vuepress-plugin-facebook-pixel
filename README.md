@@ -1,14 +1,14 @@
 # VuePress Plugin for Facebook Pixel
 
-[![NPM Package](https://img.shields.io/npm/v/@vittominacori/vuepress-plugin-facebook-pixel.svg?style=flat-square)](https://www.npmjs.com/package/@vittominacori/vuepress-plugin-facebook-pixel)
+[![NPM Package](https://img.shields.io/npm/v/vuepress-plugin-facebook-pixel.svg?style=flat-square)](https://www.npmjs.com/package/vuepress-plugin-facebook-pixel)
 [![MIT licensed](https://img.shields.io/github/license/vittominacori/vuepress-plugin-facebook-pixel.svg)](https://github.com/vittominacori/vuepress-plugin-facebook-pixel/blob/master/LICENSE)
 
 ## Install
 
 ```bash
-yarn add -D @vittominacori/vuepress-plugin-facebook-pixel
+yarn add -D vuepress-plugin-facebook-pixel
 # OR 
-npm install -D @vittominacori/vuepress-plugin-facebook-pixel
+npm install -D vuepress-plugin-facebook-pixel
 ```
 
 ## Usage 
@@ -16,7 +16,7 @@ npm install -D @vittominacori/vuepress-plugin-facebook-pixel
 ```bash
 module.exports = {
   plugins: [
-    'facebook-pixel': { 
+    'vuepress-plugin-facebook-pixel': { 
         pixelId: '123456789',
     },
 
