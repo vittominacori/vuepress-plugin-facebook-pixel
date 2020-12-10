@@ -1,9 +1,6 @@
 {
   "name": "vuepress-plugin-facebook-pixel",
   "version": "1.0.0",
-  "publishConfig": {
-    "access": "public"
-  },
   "description": "Facebook Pixel plugin for VuePress",
   "license": "MIT",
   "main": "index.js",
